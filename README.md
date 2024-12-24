@@ -18,8 +18,4 @@ The application utilizes Spring Cloud for microservices communication and provid
 - **PostgreSQL**: Database for storing application data.
 - **Postman**: Tool for API testing.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ranadhina/Bank-Microservices.git
